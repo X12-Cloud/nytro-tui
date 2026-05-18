@@ -1,0 +1,10 @@
+build/
+bin/
+out/
+nytro-tui
+
+compile_commands.json
+CMakeCache.txt
+cmake_install.cmake
+CMakeFiles/
+.cache/
